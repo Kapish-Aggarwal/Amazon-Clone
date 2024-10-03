@@ -8,7 +8,6 @@ You can view the live version of the website [here](https://amazon-website-clone
 ## Features
 - **Header & Navigation Bar**: Includes logo, search bar, and menu options similar to Amazon's main page.
 - **Product Listings**: Displays product images, descriptions, and prices in a structured layout.
-- **Responsive Design**: The layout adjusts based on the screen size for better usability on different devices.
 - **Footer**: Contains links to various site sections and information.
 
 ## Project Structure
